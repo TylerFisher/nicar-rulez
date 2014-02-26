@@ -28,6 +28,8 @@ REPOSITORY_ALT_URL = None # 'git@bitbucket.org:nprapps/%s.git' % REPOSITORY_NAME
 # The name to be used in paths on the server
 PROJECT_FILENAME = 'nicar_rulez'
 
+
+
 """
 DEPLOYMENT
 """
@@ -78,7 +80,7 @@ DEBUG = True
 """
 COPY EDITING
 """
-COPY_GOOGLE_DOC_KEY = '0AlXMOHKxzQVRdHZuX1UycXplRlBfLVB0UVNldHJYZmc'
+COPY_GOOGLE_DOC_KEY = '0AqjLQISCZzBkdE5rTV9EVFJ0d2h0R1BmQlYtZXY1MEE'
 
 """
 SHARING
