@@ -193,7 +193,7 @@ Then, you can load up the `GoogleDoc` class in `etc/gdocs.py` to handle the task
 
 Here's an example of what you might do:
 
-```
+```python
 import csv
 
 from etc.gdoc import GoogleDoc
